@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Annamarie2019
-- 👀 I’m interested in IPFS, Filecoin, NFTs, Web3, blockchain...
+- 👀 I’m interested in IPFS, Filecoin, Web3, blockchain...
 - 🌱 I’m currently learning about IPFS, Filecoin, Solidity.
 
 <!---
